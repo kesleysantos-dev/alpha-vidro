@@ -22,5 +22,5 @@ Substitua os dados de contato provisórios no `index.html` e no `js/main.js`:
 - `contato@alphavidro.com.br` → e-mail real
 
 ## Créditos de mídia
-- Vídeo: [Mixkit](https://mixkit.co) (licença gratuita)
+- Vídeo: [Pexels](https://www.pexels.com/video/7578552/) (licença Pexels)
 - Fotos: [Unsplash](https://unsplash.com) (licença Unsplash)

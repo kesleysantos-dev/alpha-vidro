@@ -105,6 +105,7 @@
     const sec = document.querySelector(a.getAttribute('href'));
     if (sec) navIO.observe(sec);
   });
+  navIO.observe(document.getElementById('inicio'));
 
   // Mobile menu
   const burger = document.querySelector('.burger');
